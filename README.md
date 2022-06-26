@@ -4,10 +4,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This project used Auth0. To run the project you will need to create an Auth0 account. 
 1. Configure your Auth0 by following the instruction on this link: https://auth0.com/docs/quickstart/spa/react/01-login
-2. Create .env file that contain the below: 
+2. Create .env file that contain the below:
+``` 
 REACT_APP_AUTH0_DOMAIN=ENTER_YOUR_AUTH0_DOMAIN
 REACT_APP_AUTH0_CLIENT_ID=ENTER_YOUR_AUTH0_CLIENT_ID
-3. npm start to run the code. 
+```
+3. `npm install` 
+4. `npm start` to run the code. 
 
 You will need node v14 or higher. 
 
